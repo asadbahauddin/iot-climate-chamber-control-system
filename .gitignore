@@ -1,0 +1,24 @@
+# Web dashboard: dikelola di repositori terpisah (lihat README)
+WEB/
+dokumentasi ruang ilim/WEB/
+
+# Secrets & environment
+.env*
+supabase.txt
+
+# Build artefacts STM32CubeIDE
+**/Debug/
+**/Release/
+
+# Arsip & dependensi
+*.rar
+*.zip
+node_modules/
+
+# Dokumen administrasi internal
+Aggaran.xlsx
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store

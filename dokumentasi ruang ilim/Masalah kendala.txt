@@ -1,0 +1,4 @@
+Masalah yang belum selesai dalah DHT22 sering error kadang bisa membaca suhu dan kelembapan
+kadang tidak terbaca 
+untuk masalah yang belum berhsil ialah dimmer AC programmable yang kedap kedim tidak seperti dimmer potensio meter
+lalu ada maslaah humidifier pakai opto coupler dimana saya bisa mengoprasikannya engan esp32 dengan sinyal pwm tetapi belum bisa di implementasikan ke stm32
